@@ -3,6 +3,8 @@
 ## Demo access:
 https://consensys-bootcamp.onrender.com
 
+You need WETH, Rinkeby faucet here: https://faucet.paradigm.xyz/
+
 ## How to run this project locally:
 
 ### Prerequisites
