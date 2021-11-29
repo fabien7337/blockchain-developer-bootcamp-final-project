@@ -9,7 +9,7 @@ https://consensys-bootcamp.onrender.com
 
 * NodeJS >= v14
 * Hardhat
-* npm
+* npm `npm install -g npm@latest`
 
 ### Smart Contracts
 
