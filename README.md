@@ -61,8 +61,9 @@ You deposit ETH into a smart contract and the smart contract will swap 50% of th
 ## Environment variables
 
 ```
-TODO
+cp .env.example .env
 ```
+And edit the variables
 
 ## TODO
 
