@@ -17,12 +17,13 @@ They are located in contracts folder `/contracts`
 
 Follow these steps to use smart contract:
 1. Navigate to root folder
-2. Install all dependencies: `npm i`
-3. Compile contracts: `npx hardhat compile`
-4. Run an ETH archive mainnet node: `npx hardhat node --fork [YOUR_RINKEBY_ARCHIVE_NODE]` (moralis.io offers free archive node)
-5. Compile: `npx hardhat compile`
-6. Deploy: `npx hardhat run scripts/deploy.js --network rinkeby`
-7. Test: `npx hardhat test`
+2. `cp .env.example .env` and edit environment variable (PRIVATE KEY, etc.)
+3. Install all dependencies: `npm i`
+4. Compile contracts: `npx hardhat compile`
+5. Run an ETH archive mainnet node: `npx hardhat node --fork [YOUR_RINKEBY_ARCHIVE_NODE]` (moralis.io offers free archive node)
+6. Compile: `npx hardhat compile`
+7. Deploy: `npx hardhat run scripts/deploy.js --network rinkeby`
+8. Test: `npx hardhat test`
 
 ### Frontend
 
